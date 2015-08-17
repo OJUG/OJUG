@@ -10,7 +10,7 @@ To turn it on and also run the house lights, talk to someone from BCBS.
 
 # MC Duties
 
-1. Setup a PC with the welcome slides running [LINK]
+1. Setup a PC with the welcome slides running - https://goo.gl/rK7ySN
 1. Thank our sponsors
 1. Any pre-talk announcements
 1. Introduce the talk(s)
