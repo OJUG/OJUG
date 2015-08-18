@@ -8,6 +8,15 @@ The projector has a VGA (?) hookup and runs at widescreen resolution.
 
 To turn it on and also run the house lights, talk to someone from BCBS.
 
+There is an adapter to HDMI to VGA at the podium.
+
+# Turning on the projector in the big room
+
+1. touch the center of the screen
+2. Click the wall laptop button
+3. joy
+
+
 # Pre Meeting
 
 1. Setup meetup.com/omahajava and ojug.org meeting invitations and details
