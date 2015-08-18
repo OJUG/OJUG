@@ -14,6 +14,16 @@ To turn it on and also run the house lights, talk to someone from BCBS.
 1. Provide BCBS (Marcus and Pernell) the meeting attendee RSVP list for building security (on day of event)
 1. Provide food sponsor (Ben at TekSystems) the RSVP headcount to supply pizza and drinks (on day of event)
 
+# During the meeting
+
+It's like [MINASWAN](https://en.wikipedia.org/wiki/MINASWAN) but with java.
+
+1. Be friendly
+2. Try to introduce people to each other
+3. Try to learn names
+
+
+
 # MC Duties
 
 1. Setup a PC with the welcome slides running - https://goo.gl/rK7ySN
