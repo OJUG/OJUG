@@ -1,28 +1,44 @@
-# Wi-Fi
-
-Marcus (or someone from BCBS) should provide this and have it available on the whiteboard
-
-# Projector
-
-The projector has a VGA (?) hookup and runs at widescreen resolution.
-
-To turn it on and also run the house lights, talk to someone from BCBS.
-
-There is an adapter to HDMI to VGA at the podium.
-
-# Turning on the projector in the big room
-
-1. touch the center of the screen
-2. Click the wall laptop button
-3. joy
-
-
 # Pre Meeting
 
 1. Setup meetup.com/omahajava and ojug.org meeting invitations and details
 1. Provide BCBS (Marcus and Pernell) the meeting attendee RSVP list for building security (on day of event)
 1. Provide food sponsor (Ben at TekSystems) the RSVP headcount to supply pizza and drinks (on day of event)
 2. Talk with Rick and the speaker about live streaming and making a youtube recording.  email works.
+
+# Meeting Setup
+
+## Wi-Fi
+
+Marcus (or someone from BCBS) should provide this and have it available on the whiteboard
+
+## Projector/Mikes
+
+The wall should be setup like this:
+
+![img](photos/projector/bcbs-outlets.jpg)
+
+Power button is at the top left:
+
+![power](photos/projector/power-button.jpg)
+
+To turn on laptop, tap "Front Wall Laptop", then "Send Wall Laptop to Screen":
+
+![laptop](photos/projector/front-wall-laptop.jpg)
+
+To control lighting and drapes, tap "Lighting and Drapes" on the left. Scene 1 is the lightest, 8 is the darkest:
+
+![lighting](photos/projector/lighting-drapes.jpg)
+
+To control sound/mikes, tap "Mic Volume and Muting". Generally only need to change the Master volume on the left:
+
+![mikes](photos/projector/microphone.jpg)
+![mike details](photos/projector/microphone-options.jpg)
+
+
+## Hook-Ups/Tech Specs
+
+* VGA cable on the podium
+* Projector native resolution: ???
 
 # During the meeting
 
@@ -32,9 +48,7 @@ It's like [MINASWAN](https://en.wikipedia.org/wiki/MINASWAN) but with java.
 2. Try to introduce people to each other
 3. Try to learn names
 
-
-
-# MC Duties
+## MC Duties
 
 1. Setup a PC with the welcome slides running - https://goo.gl/rK7ySN
 1. Thank our sponsors
