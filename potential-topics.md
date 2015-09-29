@@ -24,8 +24,9 @@ OJUG offers coaching and mentorship for speakers. See our [mentorship guide](spe
 * [exercism.io](http://exercism.io/) - pair programming/workshop?
 * Elastic Search
 * Remote Debugging Tomcat/Jboss lighting talk
-- Apache Kafka
+* Apache Kafka
 - Apache samza
 - spring project reactor
--more Rx Java talks
--prolog on the jvm
+- more Rx Java talks
+- prolog on the jvm
+- [Minecraft Modding with Forge](http://shop.oreilly.com/product/0636920036562.do)
