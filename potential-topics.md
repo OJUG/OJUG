@@ -32,3 +32,4 @@ OJUG offers coaching and mentorship for speakers. See our [mentorship guide](spe
 - [Minecraft Modding with Forge](http://shop.oreilly.com/product/0636920036562.do)
 - Apache Spark
 - Running Java on AWS (https://aws.amazon.com/)
+* API hackathon using [public APIs](https://github.com/toddmotto/public-apis)
