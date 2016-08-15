@@ -1,9 +1,8 @@
 # Pre Meeting
 
 1. Setup meetup.com/omahajava and ojug.org meeting invitations and details
-1. Provide BCBS (Marcus and Pernell) the meeting attendee RSVP list for building security (on day of event)
-1. Provide food sponsor (Ben at TekSystems) the RSVP headcount to supply pizza and drinks (on day of event)
-2. Talk with Rick and the speaker about live streaming and making a youtube recording.  email works.
+1. Provide BCBS (Marcus and Pernell, use MeetupHosts@nebraskablue.com to contact) the meeting attendee RSVP list for building security (on day of event)
+1. Provide food sponsor ([Ben at TekSystems](mailto:bleach@teksystems.com)) the RSVP headcount to supply pizza and drinks (on day of event)
 
 # Meeting Setup
 
