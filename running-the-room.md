@@ -49,7 +49,7 @@ It's like [MINASWAN](https://en.wikipedia.org/wiki/MINASWAN) but with java.
 
 ## MC Duties
 
-1. Setup a PC with the welcome slides running - https://goo.gl/rK7ySN
+1. Setup a PC with the welcome slides running - https://goo.gl/rK7ySN - edit link for those that have access is (https://docs.google.com/presentation/d/1YLI1aQWYhbGI6KahqI_M2MrMJFzAiGXQfF1AbNwzJ68/edit#slide=id.p)
 1. Thank our sponsors
 1. Any pre-talk announcements
 1. Introduce the talk(s)
