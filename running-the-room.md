@@ -36,8 +36,8 @@ To control sound/mikes, tap "Mic Volume and Muting". Generally only need to chan
 
 ## Hook-Ups/Tech Specs
 
-* VGA cable on the podium
-* Projector native resolution: ???
+* VGA cable on the podium - (don't forget MacBookPro VGA adapter)
+* Projector native resolution is 1366 x 800: Hitachi CP-WX11000 LCD Projector WXGA 1366 x 800 Resolution 6500 Lumens
 
 # During the meeting
 
